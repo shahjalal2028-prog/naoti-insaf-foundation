@@ -1,1 +1,2 @@
-# naoti-insaf-foundation
+npm install -g live-server
+live-server
